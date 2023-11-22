@@ -1,4 +1,4 @@
-This is my tutorial react project
+This is my educational react project
 
 # Getting Started with Create React App
 
